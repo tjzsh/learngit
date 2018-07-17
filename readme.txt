@@ -3,4 +3,4 @@ Git is free software under GPL.
 try it!
 try again!	TWO!
 dam!
-creat a branch test!
+creat a branch test! quick and simple!
